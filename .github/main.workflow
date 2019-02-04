@@ -1,11 +1,11 @@
 workflow "Update work item comments in AzBoards" {
   on = "issue_comment"
-  resolves = ["Create Azure Boards Work Item"]
+  resolves = ["Manage work items in AzBoards"]
 }
 
 workflow "Create work items in AzBoards" {
   on = "issues"
-  resolves = ["Create Azure Boards Work Item"]
+  resolves = ["Manage work items in AzBoards"]
 }
 
 action "Manage work items in AzBoards" {
