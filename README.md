@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
 
 
 ## Our roadmap
-* 📝 Refactor the business logic for testability
-* 📝 Switch the ux to react
-* 📝 Spike on adopting cosmos db  
-* 📝 Performance optimizations
+* 📝 Refactor the business logic for testability ([AB#354](${azDevUrl}${azDevProject}/_workitems/edit/${wid}))
+* 📝 Switch the ux to react ([AB#355](${azDevUrl}${azDevProject}/_workitems/edit/${wid}))
+* 📝 Spike on adopting cosmos db   ([AB#356](${azDevUrl}${azDevProject}/_workitems/edit/${wid}))
+* 📝 Performance optimizations ([AB#357](${azDevUrl}${azDevProject}/_workitems/edit/${wid}))
