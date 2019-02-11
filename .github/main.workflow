@@ -9,7 +9,7 @@ action "Process markdown" {
     AZURE_BOARDS_ORGANIZATION = "team"
     AZURE_BOARDS_PROJECT = "zTest"
     AZURE_BOARDS_TYPE = "User Story"
-    PathGlob = "readme.md"
+    PathGlob = "*.md"
   }
   secrets = ["GITHUB_TOKEN", "AZURE_BOARDS_TOKEN"]
 }
