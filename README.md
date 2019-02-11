@@ -4,6 +4,6 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
 
 
 ## Our roadmap
-* 📝 Refactor the business logic for testability
-* 📝 Switch the ux to react
-* 📝 Spike on adopting cosmos db
+* 📝 Refactor the business logic for testability ([AB#345](https://dev.azure.com/team/))
+* 📝 Switch the ux to react ([AB#346](https://dev.azure.com/team/))
+* 📝 Spike on adopting cosmos db ([AB#347](https://dev.azure.com/team/))
