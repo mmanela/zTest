@@ -7,3 +7,4 @@ Lorem ipsum dolor sit amet, *consectetur* adipiscing elit, sed do eiusmod tempor
 * 📝 Refactor the business logic for testability  ([AB#348](https://dev.azure.com/team/))
 * 📝 Switch the ux to react ([AB#349](https://dev.azure.com/team/))
 * 📝 Spike on adopting cosmos db  ([AB#350](https://dev.azure.com/team/))
+* 📝 Performance optimizations
