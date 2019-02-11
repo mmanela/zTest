@@ -11,9 +11,8 @@ action "Process markdown" {
     AZURE_BOARDS_TYPE = "User Story"
     PathGlob = "readme.md"
   }
-  secrets = ["AZURE_BOARDS_TOKEN"]
+  secrets = ["GITHUB_TOKEN", "AZURE_BOARDS_TOKEN"]
 }
-
 
 /*
 workflow "Update work item comments in AzBoards" {
